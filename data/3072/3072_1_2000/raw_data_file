@@ -1,0 +1,301 @@
+Linux 4.15.0-24-generic (saptarshi-ThinkPad-X240) 	2018-07-19 	_x86_64_	(4 CPU)
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015966     0      2411  281,00   24,00    0,00  305,00     3    896,00      4,00 3190048  182472   2,32     47,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015967     0      2411  277,00   25,00    0,00  302,00     2     63,00      0,00 3190048  182472   2,32      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015968     0      2411  276,00   28,00    0,00  304,00     2     20,00      0,00 3190048  182472   2,32      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015969     0      2411  275,00   30,00    0,00  305,00     0     10,00      0,00 3190048  182472   2,32      3,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015970     0      2411  278,00   32,00    0,00  310,00     2    803,00      0,00 3193000  185584   2,36    132,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015971     0      2411  274,00   33,00    0,00  307,00     0      4,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015972     0      2411  279,00   25,00    0,00  304,00     2      3,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015973     0      2411  275,00   29,00    0,00  304,00     1      3,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015974     0      2411  274,00   31,00    0,00  305,00     1      0,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015975     0      2411  275,00   28,00    0,00  303,00     3      1,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015976     0      2411  277,00   28,00    0,00  305,00     3      1,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015977     0      2411  279,00   27,00    0,00  306,00     1      0,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015978     0      2411  277,00   28,00    0,00  305,00     3      1,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015979     0      2411  275,00   28,00    0,00  303,00     1      1,00      0,00 3193000  185584   2,36      3,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015980     0      2411  274,26   28,71    0,00  302,97     3      0,99      0,00 3193000  185584   2,36      1,98      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015981     0      2411  277,00   27,00    0,00  304,00     1      0,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015982     0      2411  279,00   27,00    0,00  306,00     3      1,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015983     0      2411  280,00   26,00    0,00  306,00     1      1,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015984     0      2411  273,00   32,00    0,00  305,00     1      1,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015985     0      2411  279,00   25,00    0,00  304,00     3      1,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015986     0      2411  278,00   27,00    0,00  305,00     3      1,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015987     0      2411  281,00   23,00    0,00  304,00     1      1,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015988     0      2411  280,00   25,00    0,00  305,00     1     24,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015989     0      2411  276,00   29,00    0,00  305,00     0      0,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015990     0      2411  279,00   26,00    0,00  305,00     3      1,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015991     0      2411  288,00   28,00    0,00  316,00     2      1,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015992     0      2411  286,00   33,00    0,00  319,00     3      1,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015993     0      2411  293,00   28,00    0,00  321,00     0      0,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015994     0      2411  287,00   36,00    0,00  323,00     1      2,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015995     0      2411  291,00   34,00    0,00  325,00     1      2,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015996     0      2411  288,00   29,00    0,00  317,00     1      1,00      0,00 3193000  185584   2,36      3,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015997     0      2411  294,00   26,00    0,00  320,00     1      1,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015998     0      2411  290,00   32,00    0,00  322,00     2      3,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532015999     0      2411  290,00   31,00    0,00  321,00     2      2,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016000     0      2411  286,00   33,00    0,00  319,00     0      0,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016001     0      2411  289,00   30,00    0,00  319,00     0      0,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016002     0      2411  288,00   37,00    0,00  325,00     0      1,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016003     0      2411  290,00   37,00    0,00  327,00     0      1,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016004     0      2411  291,00   31,00    0,00  322,00     3      0,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016005     0      2411  287,00   36,00    0,00  323,00     2      0,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016006     0      2411  290,00   30,00    0,00  320,00     0      2,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016007     0      2411  291,00   33,00    0,00  324,00     1      1,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016008     0      2411  282,00   37,00    0,00  319,00     1      1,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016009     0      2411  282,00   37,00    0,00  319,00     2      1,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016010     0      2411  285,00   34,00    0,00  319,00     2      0,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016011     0      2411  290,00   31,00    0,00  321,00     0      0,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016012     0      2411  288,00   36,00    0,00  324,00     1      1,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016013     0      2411  281,00   33,00    0,00  314,00     3      1,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016014     0      2411  289,00   31,00    0,00  320,00     2      0,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016015     0      2411  287,00   34,00    0,00  321,00     1      1,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016016     0      2411  292,00   30,00    0,00  322,00     2      0,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016017     0      2411  278,00   35,00    0,00  313,00     0      1,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016018     0      2411  290,00   31,00    0,00  321,00     3      0,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016019     0      2411  287,00   33,00    0,00  320,00     1      0,00      0,00 3193000  185584   2,36      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016020     0      2411  291,00   31,00    0,00  322,00     3      1,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016021     0      2411  280,00   40,00    0,00  320,00     3      0,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016022     0      2411  290,00   31,00    0,00  321,00     2      1,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016023     0      2411  281,00   40,00    0,00  321,00     2      1,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016024     0      2411  287,00   34,00    0,00  321,00     3      2,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016025     0      2411  284,00   34,00    0,00  318,00     0      0,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016026     0      2411  293,00   29,00    0,00  322,00     2      2,00      0,00 3193000  185856   2,37      3,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016027     0      2411  284,00   39,00    0,00  323,00     1      1,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016028     0      2411  288,00   32,00    0,00  320,00     2      0,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016029     0      2411  294,00   30,00    0,00  324,00     3      2,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016030     0      2411  290,00   28,00    0,00  318,00     0      0,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016031     0      2411  282,00   35,00    0,00  317,00     1      2,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016032     0      2411  289,00   34,00    0,00  323,00     0      4,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016033     0      2411  295,00   26,00    0,00  321,00     3      1,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016034     0      2411  289,00   36,00    0,00  325,00     1      0,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016035     0      2411  280,00   33,00    0,00  313,00     1      1,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016036     0      2411  286,00   36,00    0,00  322,00     3      1,00      0,00 3193000  185856   2,37      3,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016037     0      2411  287,00   31,00    0,00  318,00     0      1,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016038     0      2411  287,00   37,00    0,00  324,00     2      0,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016039     0      2411  289,00   33,00    0,00  322,00     2      1,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016040     0      2411  287,00   34,00    0,00  321,00     2      1,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016041     0      2411  289,00   33,00    0,00  322,00     0      5,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016042     0      2411  291,00   35,00    0,00  326,00     1      1,00      0,00 3193000  185856   2,37    223,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016043     0      2411  292,00   37,00    0,00  329,00     2     10,00      0,00 3193000  185856   2,37    124,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016044     0      2411  292,00   32,00    0,00  324,00     1      1,00      0,00 3193000  185856   2,37     39,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016045     0      2411  292,00   32,00    0,00  324,00     3      0,00      0,00 3193000  185856   2,37      3,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016046     0      2411  287,00   35,00    0,00  322,00     0      1,00      0,00 3193000  185856   2,37      3,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016047     0      2411  291,00   28,00    0,00  319,00     0      0,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016048     0      2411  281,00   37,00    0,00  318,00     3      1,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016049     0      2411  290,00   32,00    0,00  322,00     2      0,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016050     0      2411  286,00   32,00    0,00  318,00     0      1,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016051     0      2411  289,00   25,00    0,00  314,00     3      0,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016052     0      2411  290,00   37,00    0,00  327,00     2      1,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016053     0      2411  287,00   41,00    0,00  328,00     3      0,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016054     0      2411  290,00   33,00    0,00  323,00     3      0,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016055     0      2411  289,00   34,00    0,00  323,00     3      1,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016056     0      2411  286,00   36,00    0,00  322,00     1      0,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016057     0      2411  288,00   32,00    0,00  320,00     1      1,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016058     0      2411  285,00   36,00    0,00  321,00     1      0,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016059     0      2411  290,00   34,00    0,00  324,00     0      1,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016060     0      2411  289,00   34,00    0,00  323,00     1      1,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016061     0      2411  287,00   31,00    0,00  318,00     3      1,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016062     0      2411  289,00   38,00    0,00  327,00     2      1,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016063     0      2411  292,00   36,00    0,00  328,00     2      1,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016064     0      2411  290,00   41,00    0,00  331,00     2      0,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
+
+#      Time   UID       PID    %usr %system  %guest    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   cswch/s nvcswch/s threads   fd-nr  Command
+ 1532016065     0      2411  284,00   37,00    0,00  321,00     2      2,00      0,00 3193000  185856   2,37      2,00      0,00      42      32  python
